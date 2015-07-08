@@ -12,7 +12,7 @@ public class outshuzi {
     	   System.out.println(i);
     	   i++;
        }
-       System.out.println("跳出循环时i的值："+i);
+       System.out.println("璺冲嚭寰幆鏃秈鐨勫�硷細"+i);
 	}
 
 }

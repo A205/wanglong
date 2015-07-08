@@ -3,10 +3,6 @@ package com.wanglong;
 import java.util.Scanner;
 
 public class example3 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     Scanner scanner=new Scanner(System.in);
@@ -23,7 +19,7 @@ public class example3 {
     default:day=0;
     }
     if(day==0){
-    	System.out.println("ÎÞÐ§ÊäÈë");
+    	System.out.println("æ— æ•ˆè¾“å…¥");
     }
     else{
     	System.out.println(day);
